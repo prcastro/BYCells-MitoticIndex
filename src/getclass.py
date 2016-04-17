@@ -5,7 +5,9 @@ import os
 #    classifs = pickle.load(open('classdict.p', 'rb'))
 #else:
 #    classifs = {}
-classifs={}
+
+classifs = {}
+
 with open('../data/classification') as f:
     head = [f.readline() for i in range(9)]
     for line in f:
