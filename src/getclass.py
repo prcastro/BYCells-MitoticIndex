@@ -3,7 +3,7 @@ import pickle
 import os
 
 
-with open('class') as f:
+with open('../data/Classificação') as f:
     head = [f.readline() for i in range(10)]
     for line in f:
         linesp = line.split()
