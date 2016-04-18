@@ -52,7 +52,6 @@ cellJ7 - PM
 cellL2 - PM
 cellL6 - G0
 cellL14 - G0
-cellL18 - NC
 cellM1 - G0
 cellM4 - G0
 cell1A6 - PF
@@ -110,7 +109,7 @@ cell1O7 - G0
 cell1O8 - G0
 cell1O13 - MF
 cell1Q1 - G0
-ceLL1Q2 - G0
+cell1Q2 - G0
 cell1Q26 - MF
 cell1Q28 - MF
 cell1R2 - G0
