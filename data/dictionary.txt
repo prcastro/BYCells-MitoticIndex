@@ -1,0 +1,8 @@
+G0 - Células em intérfase
+PF - Células em prófase
+PM - Células em pró-metafase
+MF - Células em metáfase
+AF - Células em anáfase
+TF - Células em telófase
+G1 - Células em G1
+NC - not a cell
